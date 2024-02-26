@@ -33,7 +33,3 @@ The package is published at NPM at [`@macrostrat/d3-timescale`](https://www.npmj
 ```bash
 npm install @macrostrat/d3-timescale
 ```
-
-## Funding
-
-Development of first version supported by NSF EAR-0949416.
